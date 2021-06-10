@@ -1,0 +1,4 @@
+Mark, IT, 200000, Male
+Marry, HR, 180000, Female
+David, Architect, 280000, Male
+Smith, Engineer, 180000, Male
